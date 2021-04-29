@@ -88,5 +88,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/dennerkrans/shared-compendiums/main/module.json",
-  "download": ""
+  "download": "https://github.com/dennerkrans/shared-compendiums/raw/main/shared-compendiums.zip"
 }
