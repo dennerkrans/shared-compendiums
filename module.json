@@ -1,0 +1,91 @@
+{
+  "name": "shared",
+  "title": "Shared Content",
+  "description": "Shared content between all worlds.",
+  "version": "1.0.0",
+  "author": "Original from Encounter Library",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "packs": [
+    {
+      "name": "monsters-ddb",
+      "label": "Monsters (DDB)",
+      "path": "./packs/monsters.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "items-ddb",
+      "label": "Items (DDB)",
+      "path": "./packs/items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-features-ddb",
+      "label": "Class Features (DDB)",
+      "path": "./packs/class-features.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes-ddb",
+      "label": "Classes (DDB)",
+      "path": "./packs/classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "races-ddb",
+      "label": "Races (DDB)",
+      "path": "./packs/races.db",
+      "entity": "Item"
+    },
+    {
+      "name": "feats-ddb",
+      "label": "Feats (DDB)",
+      "path": "./packs/feats.db",
+      "entity": "Item"
+    },
+    {
+      "name": "racial-traits-ddb",
+      "label": "Racial Traits (DDB)",
+      "path": "./packs/racial-traits.db",
+      "entity": "Item"
+    },
+    {
+      "name": "spells-ddb",
+      "label": "Spells (DDB)",
+      "path": "./packs/spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "shared-scenes",
+      "label": "Shared Scenes",
+      "path": "./packs/scenes.db",
+      "entity": "Scene"
+    },
+    {
+      "name": "shared-journal-entries",
+      "label": "Shared Journal Entries",
+      "path": "./packs/journal-entries.db",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "shared-macros",
+      "label": "Shared Macros",
+      "path": "./packs/macros.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "shared-roll-tables",
+      "label": "Shared Roll Tables",
+      "path": "./packs/roll-tables.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "shared-playlists",
+      "label": "Shared Playlists",
+      "path": "./packs/playlists.db",
+      "entity": "Playlist"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
