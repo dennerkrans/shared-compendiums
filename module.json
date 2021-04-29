@@ -3,6 +3,7 @@
   "title": "Shared Content",
   "description": "Shared content between all worlds.",
   "version": "1.0.0",
+  "system": "dnd5e",
   "author": "Original from Encounter Library",
   "minimumCoreVersion": "0.7.5",
   "compatibleCoreVersion": "0.7.9",
@@ -86,6 +87,6 @@
       "entity": "Playlist"
     }
   ],
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/dennerkrans/shared-compendiums/main/module.json",
   "download": ""
 }
